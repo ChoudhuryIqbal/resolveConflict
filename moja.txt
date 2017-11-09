@@ -2,7 +2,8 @@ moja from apple1
 moja from dell1s
 Dell
 apple
+<<<<<<< HEAD
 banana
 orange
 helllossss
-ss
+s
